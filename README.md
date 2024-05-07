@@ -14,4 +14,4 @@ codepen gera codigo com ia > https://codepen.io/pen
 
 kaggle obter dados do google > https://www.kaggle.com/
 
-repo github > https://github.com/danielgarciabr/aluraaigoole
+repo github > https://github.com/danielgarciabr/aluraaigoole.
